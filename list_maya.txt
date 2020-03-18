@@ -1,0 +1,68 @@
+\Maya analysis\Bulk\2015_11_29\bulk contraction rambam 4_1\Sample time 13_35\Capture 3\
+\Maya analysis\Bulk\2015_11_29\bulk contraction rambam 4_1\Sample time 13_35\Capture 6\
+\Maya analysis\Bulk\2015_11_29\bulk contraction rambam 4_1\Sample time 14_10\Capture 3\
+\Maya analysis\Bulk\2015_11_29\bulk contraction rambam 4_1\Sample time 14_10\Capture 5\
+\Maya analysis\Bulk\2015_11_29\bulk contraction rambam 4_1\Sample time 14_10\Capture 6\
+\Maya analysis\Bulk\2015_11_29\bulk contraction rambam 4_1\Sample time 14_50\Capture 2\
+\Maya analysis\Bulk\2015_11_29\bulk contraction rambam 4_1\Sample time 14_50\Capture 6\
+\Maya analysis\Bulk\2015_11_29\bulk contraction rambam 4_1\Sample time 15_30\Capture 2\
+\Maya analysis\Bulk\2016_04_04\Sample time 11_00\Capture 1\
+\Maya analysis\Bulk\2016_04_04\Sample time 11_00\Capture 2\
+\Maya analysis\Bulk\2016_04_04\Sample time 11_50\Capture 1\
+\Maya analysis\Bulk\2016_04_04\Sample time 11_50\Capture 2\
+\Maya analysis\Bulk\2016_04_04\Sample time 11_50\Capture 3\
+\Maya analysis\Bulk\2016_04_04\Sample time 11_50\Capture 4\
+\Maya analysis\Bulk\2016_04_04\Sample time 12_30\Capture 1\
+\Maya analysis\Bulk\2016_04_04\Sample time 12_30\Capture 2\
+\Maya analysis\Bulk\2016_04_04\Sample time 12_30\Capture 3\
+\Maya analysis\Bulk\2016_04_04\Sample time 14_15\Capture 1\
+\Maya analysis\Bulk\2016_04_04\Sample time 14_15\Capture 2\
+\Maya analysis\Bulk\2016_04_04\Sample time 14_15\Capture 3\
+\Maya analysis\Bulk\2016_04_04\Sample time 14_55\Capture 5\
+\Maya analysis\Bulk\2016_04_04\Sample time 15_15\Capture 2\
+\Maya analysis\Bulk\2016_04_04\Sample time 15_15\Capture 3\
+\Maya analysis\Bulk\2016_04_04\Sample time 15_15\Capture 4\
+\Maya analysis\Bulk\2016_04_04\Sample time 16_00\Capture 1\
+\Maya analysis\Bulk\2016_04_04\Sample time 16_00\Capture 2\
+\Maya analysis\Bulk\2016_04_04\Sample time 16_00\Capture 3\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 14_30\Capture 3\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 14_30\Capture 4\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 14_30\Capture 5\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 15_15\Capture 1\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 15_15\Capture 2\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 15_15\Capture 3\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 15_15\Capture 4\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 16_05\Capture 1\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 16_05\Capture 2\
+\Maya analysis\Bulk\2016_05_25\Bulk contraction 10um\Sample time 16_35\Capture 3\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 12_30\Capture 2\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 12_30\Capture 3\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 12_30\Capture 4\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 15_10\Capture 1\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 15_10\Capture 3\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 16_00\Capture 1\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 16_00\Capture 2\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 16_00\Capture 3\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 16_45\Capture 1\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 16_45\Capture 2\
+\Maya analysis\Bulk\2016_05_30\1um silica beads\sample time 16_45\Capture 4\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\10sec\Capture 2\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\10sec\Capture 6\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\10sec\Capture 7\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\5sec\Capture 1\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\5sec\Capture 3\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\5sec\Capture 4\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\5sec\Capture 5 analysis by dt5sec\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\5sec\Capture 5 analysis by dt10sec\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\5sec\Capture 8\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_20\mix1 sample2 time17_08\5sec\Capture 9\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample1 time15_40\Capture 1\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample1 time15_40\Capture 3\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample1 time15_40\Capture 5\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample1 time15_40\Capture 8\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample1 time15_40\Capture 9\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample1 time15_40\Capture 11\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample1 time15_40\Capture 12\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample2 time16_28_100um thick\Capture 1\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample2 time16_28_100um thick\Capture 7\
+\Maya analysis\Bulk\copy yo server\Kinneret movies\2016_10_22\80%extract\mix1 sample2 time16_28_100um thick\Capture 8\

@@ -1,0 +1,36 @@
+type	description	date	minutes after sample preparation	lens	extract	comments	filename
+statistics	standard	22/12/16	40	40x	rambam5		Z:\analysis\Niv\adams visit\symmetry breaking analysis\2016_12_22\control 80percent_extract + XB +LA-GFP-Emix\sample1\analysis_data_montage40m_oop.mat
+statistics	standard	22/12/16	40	40x	rambam5		Z:\analysis\Niv\adams visit\symmetry breaking analysis\2016_12_22\control 80percent_extract + XB +LA-GFP-Emix\sample2\analysis_data_montage40m_oop.mat
+statistics	standard	31/1/17	40	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_01_31\control 80percent_extract + LA-GFP\sample1\analysis_data_40m.mat
+statistics	standard	31/1/17	45	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_01_31\control 80percent_extract + LA-GFP\sample2\analysis_data_45m.mat
+statistics	ActA	27/10/16	60	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2016_10_27\80percent_extract 0.5muM_LA-GFP ActA\analysis_data_montage60m_oop.mat
+statistics	Abp1 + Srv2	7/12/16	40	40x	rambam5		Z:\analysis\Niv\adams visit\symmetry breaking analysis\2016_12_07\Srv2_2muM+Abp1_2muM\analysis_data_montage40m_oop.mat
+statistics	ActA + Abp1 + Srv2	7/12/16	45	40x	rambam5		Z:\analysis\Niv\adams visit\symmetry breaking analysis\2016_12_07\ActA+srv2+Abp1\analysis_data_montage40m_oop.mat
+statistics	CCA	30/10/16	45	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2016_10_30\80P_extract Cor+Cof_AIP1 LA-GFP\mix1 sample1 time09_55\analysis_data_montage45m_oop.mat
+statistics	CCA	30/10/16	40	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2016_10_30\80P_extract Cor+Cof_AIP1 LA-GFP\mix1 sample2 time11_35\analysis_data_montage45m_oop.mat
+statistics	TPM 3.1	27/10/16	45	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2016_10_27\80percent_extract 0.5muM_LA-GFP 3.3muM_TPM3.1\analysis_data_montage45m_oop.mat
+statistics	TPM 3.1 + KCl	1/11/16	45	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2016_11_01\3muM_TPM3.1 30mM_KCl\analysis_data_montage45m_oop.mat
+statistics	mDia	11/12/16	40	40x	rambam5		Z:\analysis\Niv\adams visit\symmetry breaking analysis\2016_12_11\mDia\sample1\analysis_data_montage40m_oop.mat
+tracking	standard	11/12/16		40x		symbraking	Z:\analysis\Niv\tracking\2016_12_11\80percent_extract+XB\mix2 sample4 time17_52\capture 1\analysis_data_oop_tracking_correlation.mat
+tracking	standard	11/12/16		40x		symbraking	Z:\analysis\Niv\tracking\2016_12_11\80percent_extract+XB\mix2 sample2 time17_23\capture 1\analysis_data_oop_tracking_correlation.mat
+tracking	standard	31/1/17		40x		centered	Z:\analysis\Niv\tracking\2017_01_31\control 80percent_extract + LA-GFP\mix2 sample1\capture1\analysis_data_oop_tracking_correlation.mat
+tracking	standard	31/1/17		40x		half symbraking	Z:\analysis\Niv\tracking\2017_01_31\control 80percent_extract + LA-GFP\mix2 sample1\capture2\analysis_data_oop_tracking_correlation.mat
+tracking	standard	31/1/17		40x		"continued, good up to 140"	Z:\analysis\Niv\tracking\2017_01_31\control 80percent_extract + LA-GFP\mix2 sample1\capture3 - continue2\analysis_data_oop_tracking_correlation.mat
+tracking	standard	31/1/17		40x		kind of centered	Z:\analysis\Niv\tracking\2017_01_31\control 80percent_extract + LA-GFP\mix2 sample2\capture2\analysis_data_oop_tracking_correlation.mat
+statistics	standard	11/5/17	15	40x			Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_05_11\80percent_extract 5min_TL\sample1\analysis_15m\data.mat
+	standard	11/5/17	20	40x			Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_05_11\80percent_extract 5min_TL\sample1\analysis_20m\data.mat
+	standard	11/5/17	25	40x			Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_05_11\80percent_extract 5min_TL\sample1\analysis_25m\data.mat
+	standard	11/5/17	30	40x			Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_05_11\80percent_extract 5min_TL\sample1\analysis_30m\data.mat
+	standard	11/5/17	35	40x			Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_05_11\80percent_extract 5min_TL\sample1\analysis_35m\data.mat
+	standard	11/5/17	40	40x			Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_05_11\80percent_extract 5min_TL\sample1\analysis_40m\data.mat
+	standard	11/5/17	45	40x			Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_05_11\80percent_extract 5min_TL\sample1\analysis_45m\data.mat
+	standard	11/5/17	50	40x			Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_05_11\80percent_extract 5min_TL\sample1\analysis_50m\data.mat
+	standard	11/5/17	55	40x			Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_05_11\80percent_extract 5min_TL\sample1\analysis_55m\data.mat
+statistics	standard	20/12/17	15	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_12_20\sample2\analysis_15m
+statistics	standard	20/12/17	30	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_12_20\sample2\analysis_30m
+statistics	standard	20/12/17	45	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_12_20\sample2\analysis_45m
+statistics	standard	20/12/17	60	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_12_20\sample2\analysis_60m
+statistics	standard	21/12/17	15	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_12_21\mix1 sample2\analysis_15m
+statistics	standard	21/12/17	30	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_12_21\mix1 sample2\analysis_30m
+statistics	standard	21/12/17	45	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_12_21\mix1 sample2\analysis_45m
+statistics	standard	21/12/17	60	40x	rambam5		Z:\analysis\Niv\rambam5 extract\symmetry breaking analysis\2017_12_21\mix1 sample2\analysis_60m

@@ -1,0 +1,6 @@
+*.asv
+.svn
+*.png
+*.pdf
+*.eps
+resources/
